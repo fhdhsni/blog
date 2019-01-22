@@ -1,4 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
+http://fhdhsni.me/* https://fhdhsni.me/:splat 301!
 http://dazzling-elion-52233f.netlify.com/* https://fhdhsni.me/:splat 301!
 https://dazzling-elion-52233f.netlify.com/* https://fhdhsni.me/:splat 301!
-http://fhdhsni.me/* https://fhdhsni.me/:splat 301!
